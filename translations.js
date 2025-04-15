@@ -17,7 +17,8 @@ const translations = {
             webDev: "Web Development",
             blockchain: "Blockchain",
             database: "Database",
-            framework: "Framework"
+            framework: "Framework",
+            gameDev: "Game Development"
         },
         experience: {
             title: "Work Experience",
@@ -74,7 +75,8 @@ const translations = {
             webDev: "Web Development",
             blockchain: "Blockchain",
             database: "Database",
-            framework: "Framework"
+            framework: "Framework",
+            gameDev: "Game Development"
         },
         experience: {
             title: "Esperienza Lavorativa",
