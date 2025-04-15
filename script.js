@@ -1,3 +1,40 @@
+let currentLanguage = 'en';
+
+function changeLanguage(lang) {
+    currentLanguage = lang;
+    document.documentElement.lang = lang;
+    updateTranslations();
+}
+
+function updateTranslations() {
+    const elements = document.querySelectorAll('[data-translate]');
+    elements.forEach(element => {
+        const key = element.getAttribute('data-translate');
+        const translation = getTranslation(key);
+        if (translation) {
+            if (element.tagName === 'INPUT' || element.tagName === 'TEXTAREA') {
+                element.placeholder = translation;
+            } else {
+                element.textContent = translation;
+            }
+        }
+    });
+}
+
+function getTranslation(key) {
+    const keys = key.split('.');
+    let value = translations[currentLanguage];
+    for (const k of keys) {
+        if (value && typeof value === 'object') {
+            value = value[k];
+        } else {
+            return null;
+        }
+    }
+    return value;
+}
+
+// Inizializza la lingua predefinita
 document.addEventListener('DOMContentLoaded', function() {
     // Smooth scrolling per i link della navigazione
     document.querySelectorAll('nav a').forEach(anchor => {
