@@ -49,8 +49,8 @@ header {
 }
 
 .profile-image img {
-    width: 100%;
-    height: 100%;
+    width: 88%;
+    height: 148%;
     object-fit: cover;
 }
 
