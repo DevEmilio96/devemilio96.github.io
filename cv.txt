@@ -1,0 +1,42 @@
+EMILIO CLEMENTE
+Software Engineer & Blockchain Developer
+
+Contatti:
+- Email: Minima998@gmail.com
+- Telefono: (+39) 339 6566663
+- Località: Eboli, 84025, SA, ITALY
+- GitHub: https://github.com/DevEmilio96
+
+PROFILO PROFESSIONALE
+Software Engineer con esperienza in sviluppo front-end e back-end. Specializzato nello sviluppo di applicazioni decentralizzate (Dapps) e soluzioni ibride che combinano blockchain e sistemi centralizzati. Capacità di leadership e gestione di team, con forte attitudine al problem-solving e comunicazione efficace.
+
+COMPETENZE TECNICHE
+• Web Development: HTML, CSS, JavaScript, PHP, Python, Node.js
+• Blockchain: Solidity, Web3
+• Database: MySQL, SQL
+• Framework: React, Next.js, React Native, Firebase
+• CMS: WordPress
+• Version Control: GitHub
+
+ESPERIENZA LAVORATIVA
+Token Revolution srls – Agropoli (SA), Italy
+Software Manager (Settembre 2021 - Presente)
+- Sviluppo di soluzioni ibride blockchain
+- Gestione presale progetti
+- Decentralizzazione processi aziendali
+
+Microware srl – Battipaglia (SA), Italy
+Software Engineer (Settembre 2019 - Settembre 2021)
+- Sviluppo framework gestionale per agenzie assicurative
+- Implementazione LAMP stack
+
+ISTRUZIONE
+Laurea in Informatica, Marzo 2024
+Università di Salerno, Italy
+
+LINGUE
+• Italiano: Madrelingua
+• Inglese: B1-Intermedio
+
+INTERESSI
+Musica, Palestra, ESports, Investimenti
